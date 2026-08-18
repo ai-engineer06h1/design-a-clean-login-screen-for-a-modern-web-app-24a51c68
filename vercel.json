@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/api/(.*)","destination":"/api/index.py"},{"source":"/(.*)","destination":"/index.html"}]}},{"path":".env.example","content":"DATABASE_URL=\nJWT_SECRET=\n"}],
